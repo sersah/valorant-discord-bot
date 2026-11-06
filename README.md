@@ -104,7 +104,7 @@ Want to run your own instance of this bot? Follow the guide below!
 
 ### Option A: Clone with Git
 ```bash
-git clone https://github.com/serhat27s/valorant-discord-bot.git
+git clone https://github.com/sersah/valorant-discord-bot.git
 cd valorant-discord-bot
 ```
 
